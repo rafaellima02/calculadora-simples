@@ -1,7 +1,7 @@
 // Função para limpar o visor da calculadora
 function clean() {
     document.getElementById("resultado").innerText = "";
-}r
+}
 
 // Função para voltar um caractere no visor
 function back() {
